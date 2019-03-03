@@ -22,7 +22,7 @@ def total(matrix, dataIndex):
             total += int(item[dataIndex])
     return total
 
-# Calculate average, maximum, minimum from data matrix; specifying indeces for numeric and string data
+# Calculate average, maximum, minimum from data matrix; specifying indices for numeric and string data
 def averageMinMax(data_List, numberIndex, dateIndex):
 
     # Separate the Profit/Losses in to a list
