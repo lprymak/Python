@@ -7,3 +7,5 @@ Analyze vote totals, percentages, and overall winner and create print out of the
 ### PyBank
 
 Analyze financial records and create a summary print out.
+
+Both written in Visual Studio
